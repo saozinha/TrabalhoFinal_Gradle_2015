@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-963ed1020696723aeb6f6db2f19ab382aa68ce40.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\Versao_05_09_15\libexibecitacao\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59567f62a4305668179b798cc752aaf0783c3165">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-a958b38e7b2580cc85614fcd07b9282daf64a536.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-714c809fa7aed54742fcdd509231a47e7736c4ba.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-29da021988e57234778584040c26eb2cfcb6b4c7.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-e1914437bc90a5e2e2f95fee37d868ceb1a3566c.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-cbec0db01cf2903546255d64012575509412539d.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-bd23d0083d192530ea74df5e7d7102dcafa9e50e.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-6bee8bdb6d682ce78f33277de0b0d9874cf2c2e0.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-f59e9d61e65389ba71adf883cc20d6ac2054d9fa.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-e7cc56f860d9a8d03db649e41b1eb7a104bf33cb.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-05916685871372138b54fbc1536f39655c9b1e02.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-b3d29b253794caa9e004c86d06bdd095b983b498.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-2252b4659d7c247e24e1bd59eeca2853020563ef.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\internal_impl-22.2.1-c602c65e01cca8e375612504d06b7a8061d478bf.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-90284d4b7cb11e3369c897a395a785b0edd5c610.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\libcitations\build\libs\libcitations.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="16215f6197484a9e7d1780e70afaeea543a7a02c">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\libcitations-4b48ff95155c507e0ca0bc45acf9e30c5ef37a6f.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-7fa4e4b4c1e973b5c01b1ff77b154531e7c21080.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-9ea0fef8fe9f446169408495a3049dc2d0581d07.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\support-annotations-22.2.1-47cbf2c9c4cda5abab44f362d4cf6e83ad6e271b.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-0675ca9cf4c1cda408998c53f8de3c4e2443978e.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-d417be529e55ffbb92eb23a5b1d1ad9e0e1bb473.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-182f79c5e72d12b1076de43d1caf2040d82f9547.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-e03dbf726167bfd5e386c5722412133de23cb953.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-3f93cae6b77f9ca08cda1751f4c1de37d2fedeb8.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-423e3f797999027a092f696ef91d2f2b7e78a812.jar" />
+    </item>
+    <item
+        jar="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="D:\Mobile\github\TrabalhoFinal_Grupo\Versao_05_09_15\app\build\intermediates\pre-dexed\free\debug\classes-3859ace51886acb04ac310e9871ee658a978b4fa.jar" />
+    </item>
+
+</items>

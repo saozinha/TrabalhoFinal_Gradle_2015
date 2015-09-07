@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Versao_05_09_15.iml" filepath="$PROJECT_DIR$/Versao_05_09_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libcitations/libcitations.iml" filepath="$PROJECT_DIR$/libcitations/libcitations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libexibecitacao/libexibecitacao.iml" filepath="$PROJECT_DIR$/libexibecitacao/libexibecitacao.iml" />
+    </modules>
+  </component>
+</project>
