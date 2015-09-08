@@ -6,13 +6,13 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.TextView;
 import android.widget.Toast;
 
-//import com.udacity.gradle.imageactivity.ImageActivity;
 import com.example.Citacao;
 import com.example.CitationProvider;
 import com.example.flaviayeshua.libexibecitacao.CitacaoActivity;
+
+//import com.udacity.gradle.imageactivity.ImageActivity;
 
 public class MainActivity extends ActionBarActivity {
 
@@ -20,7 +20,6 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ((TextView)findViewById(R.id.tvText)).setText(PhraseGenerator.get());
     }
 
 
@@ -54,9 +53,15 @@ public class MainActivity extends ActionBarActivity {
 
         CitationProvider provider = new CitationProvider();
 
-        provider.addCitation("123 aqui mora um portugues", "Flávia Yeshua");
-        provider.addCitation("Ouviram do Ipiranga", "Marco Yeshua");
-        provider.addCitation("Uma vez Flamengo, sempre Flamengo", "Priscila Costa");
+        provider.addCitation("Há três tipos de pessoas: Aqueles que vêem, aqueles que vêem somente o que se mostra e aqueles que não vêem.", "Leonardo da Vinci");
+        provider.addCitation("A justiça é a vingança do homem em sociedade, como a vingança é a justiça do homem em estado selvagem.", "Epicuro");
+        provider.addCitation("Os filhos dos homens, dentre todos os animais jovens, são os mais difíceis de serem tratados.", "Platão");
+        provider.addCitation("Quem mais possui, mais medo tem de perder.", "Leonardo da Vinci");
+        provider.addCitation("Quando vires um homem bom, tenta imitá-lo; quando vires um homem mau, examina-te a ti mesmo.", "Confúcio");
+        provider.addCitation("Homens geniais começam as obras, os homens trabalhadores as terminam.", "Leonardo da Vinci");
+        provider.addCitation("O homem superior atribui a culpa a si próprio; o homem comum aos outros.", "Confúcio");
+        provider.addCitation("Homens geniais começam as obras, os homens trabalhadores as terminam.", "Leonardo da Vinci");
+        provider.addCitation("Queres ser rico? Pois não te preocupes em aumentar os teus bens, mas sim em diminuir a tua cobiça.", "Epicuro");
 
         Citacao citacao = provider.obterCitation();
 

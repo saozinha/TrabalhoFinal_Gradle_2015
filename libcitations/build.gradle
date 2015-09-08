@@ -3,3 +3,18 @@ apply plugin: 'java'
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src'
+        }
+    }
+}
+
+task ABVerificacao (dependsOn : 'classes', type : JavaExec){
+    main = 'com.example.testes.ApplicationTest'
+    classpath = sourceSets.main.runtimeClasspath
+    systemProperty 'teste.citacao', 'Não são as respostas que movem o mundo, são as perguntas'
+    systemProperty  'teste.autor' , 'Albert'
+}

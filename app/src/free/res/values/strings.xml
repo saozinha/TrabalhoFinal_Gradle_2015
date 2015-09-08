@@ -1,7 +1,4 @@
 <resources>
     <string name="app_name">CitationsFamous - Free</string>
-    <string name="instructions">Pressione o botão</string>
-    <string name="button_text">Mostrar Citação</string>
-    <string name="action_settings">Sobre</string>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
 </resources>
