@@ -12,9 +12,9 @@ public class ApplicationTest {
         CitationProvider cp = new CitationProvider();
 
         if (!(cp.addCitation(System.getProperty("teste.citacao"),System.getProperty("teste.autor")))) {
-            System.out.println("Erro ao adicionar citacao !!");
+            System.out.println("teste_AddCitacao - Erro ao adicionar citacao !!");
         } else {
-            System.out.println("Citacao Adicionada !!");
+            System.out.println("teste_AddCitacao - Citacao Adicionada !!");
         }
 
     }
